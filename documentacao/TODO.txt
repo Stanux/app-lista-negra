@@ -1,0 +1,39 @@
+Cadastro Nacional de Empresas Inidôneas e Suspensas (CEIS);
+    - Importado sem o detalhamento
+Cadastro Nacional de Empresas Punidas (CNEP);
+Cadastro de Empregadores, conhecido como "Lista Suja";
+Lista de Responsáveis com Contas Julgadas Irregulares;
+Cadastro de Entidades Privadas Sem Fins Lucrativos Impedidas (CEPIM);
+Lista de Transparência sobre Trabalho Escravo;
+
+
+OUTRAS LISTAS
+
+Lista de Sanções da ONU (Organização das Nações Unidas);
+Lista de Sanções do Conselho de Segurança das Nações Unidas (CSNU);
+Lista de Sanções da União Europeia (UE);
+Lista de Sanções da Interpol;
+Lista de Sanções do Departamento do Tesouro dos Estados Unidos (OFAC - Office of Foreign Assets Control);
+Lista de Sanções do Departamento de Comércio dos Estados Unidos (BIS - Bureau of Industry and Security);
+Lista de Sanções do Departamento de Estado dos Estados Unidos;
+Lista de Sanções do Departamento de Segurança Interna dos Estados Unidos;
+Lista de Sanções do Departamento de Energia dos Estados Unidos;
+Lista de Sanções do Departamento do Tesouro do Reino Unido (HM Treasury);
+Lista de Sanções da Austrália (DFAT - Department of Foreign Affairs and Trade);
+Lista de Sanções do Canadá (OSFI - Office of the Superintendent of Financial Institutions);
+Lista de Sanções da Suíça (SECO - State Secretariat for Economic Affairs);
+Lista de Sanções da Rússia (conhecida como "Lista Magnitsky");
+Lista de Sanções do Japão (MOFA - Ministry of Foreign Affairs).
+
+
+Para fornecedores de Dados Cadastrais, o Integrity conta com:
+•	Egea e Serpro para abertura de Quadro Societário. 
+•	AML – AML Due Diligence para dados reputacionais nos seguintes módulos: 
+o	Mídias Tratadas;
+o	Listas de Sanções Nacionais;
+o	Lista Pessoas Politicamente Expostas - PEPs Nacional;
+o	Listas Restritivas Internacionais;
+o	ESG.
+•	Lexis Nexis para Sanções Internacionais, Mídia Negativa, Listas Restritivas Internacionais e Pessoas Politicamente Expostas – PEPs Internacionais (base de dados através do AML Due Diligence). 
+•	Predictus para Processos Judiciais (base de dados através do AML Due Diligence.  
+•	Poderá contar com empresas parceiras para o Processo de Implementação do Integrity4all em seus Clientes
